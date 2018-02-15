@@ -80,5 +80,5 @@ One of the aims of this library is to be customizable. The many options include:
 
 All of this and more can be done via the decorator api. Please check out the [decorator documentation](docs/DECORATORS.md).
 
-### Custom Selectors and Colors
+
 

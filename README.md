@@ -45,10 +45,8 @@ Major Change in 1.4.0
 
   `mcv.state().edit()` will retain previously set values; `mcv.newState()` will create a new state using default values. Calling `commit` will trigger the rebuild of adapters and date ranges. It is recommended these state changes occur as the first modification to MCV (before configuring anything else like current date or selected date); we make no guarantee those modifications will be retained when the state is modified.
 
-  See [CUSTOMIZATION_BUILDER](docs/CUSTOMIZATION_BUILDER.md) for usage details.
-* New: `setSelectionMode(SELECTION_MODE_RANGE)` was added to allow 2 dates to be selected and have the entire range of dates selected. Much thanks to [papageorgiouk](https://github.com/papageorgiouk) for his work on this feature.
 
-See other changes in the [CHANGELOG](/CHANGELOG.md).
+
 
 Major Change in 1.3.0
 ---------------------

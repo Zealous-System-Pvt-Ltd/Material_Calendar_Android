@@ -1,4 +1,3 @@
-<img src="/images/hero.png"/>
 
 Material Calendar View
 ======================
